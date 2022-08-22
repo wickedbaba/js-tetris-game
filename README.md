@@ -1,2 +1,2 @@
-# js-tertris-game
+# js-tetris-game
 Made a project for revision
